@@ -1,2 +1,2 @@
 # LibraryManagementSystem
-LMS uisng microservices
+LMS using microservices
